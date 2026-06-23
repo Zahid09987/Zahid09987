@@ -17,7 +17,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,html,css,tailwind,nodejs,git,linux,bun" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,html,css,tailwind,nodejs,git,linux,bun,laravel,php,npm,github,markdown,sass,apple,mysql,windows,bash,java,notion,obsidian,discord,spotify,pytorch,twitter,vscode" alt="Skills Icons" />
 </p>
 
 ---
